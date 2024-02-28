@@ -41,7 +41,7 @@ The code for our algorithm, ReMiDi, is implemented in `x_minigrid_remidi.py`.
 ## How it works
 ReMiDi has multiple PLR buffers, and we start with the first one, performing standard PLR on it for a certain number of iterations. Thereafter, we go on to the next buffer and again perform PLR. This time, however, any level that has perfect trajectory overlap with a level in any of the previous buffers is ignored. The agent is also only updated on parts of the trajectories that do not overlap with the previous ones.
 
-How we determine trajectory overlap is by using the parallel step environment (`gsrl/wrappers/parallel_step.py`). This allows us to perform the same action that we take on our current level on a set of other levels, in our case all levels from a previous buffer. 
+How we determine trajectory overlap is by using the parallel step environment (`lib/wrappers/parallel_step.py`). This allows us to perform the same action that we take on our current level on a set of other levels, in our case all levels from a previous buffer. 
 Since our environments are deterministic, we can compare the observations of the current level to each of the previous ones to determine trajectory overlap.
 ## Reproduction
 ### Installation
@@ -63,7 +63,7 @@ In general, you can run
 ```
 python x_minigrid_plr.py
 ```
-for PLR, with arguments specified in `gsrl/common/arguments.py`.
+for PLR, with arguments specified in `lib/common/arguments.py`.
 
 
 Or, to run ReMiDi (which has four additional arguments specified in `x_minigrid_remidi.py`)
