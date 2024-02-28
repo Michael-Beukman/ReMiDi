@@ -1,6 +1,6 @@
 # Bayesian Level Perfect Minimax Regret
 <p align="center">
-<a href="#reproduction">Get Started</a> &mdash; <a href="https://arxiv.org/abs/2204.06934">Paper</a>
+<a href="#reproduction">Get Started</a> &mdash; <a href="https://arxiv.org/abs/2402.12284">Paper</a>
 </p>
 
 This is the repository for the paper *Refining Minimax Regret for Unsupervised Environment Design*. We introduce a new objective and solution concept (called Bayesian Level Perfect Minimax Regret (BLP)) for Unsupervised Environment Design (UED) that does not fail when there are environments with irreducible regret.
