@@ -1,4 +1,5 @@
-# Bayesian Level Perfect Minimax Regret: A ReMiDi 💉 to Irreducible Regret
+# Bayesian Level Perfect Minimax Regret
+## A ReMiDi 💉 to Irreducible Regret
 <p align="center">
        <a href= "#reproduction"><img src="https://img.shields.io/badge/get_started-link-blue" /></a>
        <a href= "https://blog.foersterlab.com/blp"><img src="https://img.shields.io/badge/blog-link-purple" /></a>
@@ -12,21 +13,15 @@
     Policy 1
     <br>
     <div style="width:31%; display: inline-block;">
-        <video controls autoplay muted loop style="width: 100%">
-        <source src="figures/tmaze_left.mp4" type="video/mp4" >
-        </video>
+        <img src="figures/tmaze_left.mp4.gif">
         Regret: 1.0
     </div>
     <div style="width:31%; display: inline-block">
-    <video controls autoplay muted loop style="width: 100%">
-        <source src="figures/tmaze_right.mp4" type="video/mp4" >
-    </video>
+    <img src="figures/tmaze_right.mp4.gif">
     Regret: 1.0
     </div>
     <div style="width:31%; display: inline-block">
-        <video controls autoplay muted loop style="width: 100%">
-        <source src="figures/maze_spin_0.mp4" type="video/mp4" >
-        </video>
+        <img src="figures/maze_spin_0.mp4.gif">
         Regret: 0.9
     </div>
 </div>
@@ -35,22 +30,16 @@
     Policy 2
     <br>
     <div style="width:31%; display: inline-block;">
-        <video controls autoplay muted loop style="width: 100%">
-        <source src="figures/tmaze_left.mp4" type="video/mp4" >
-        </video>
+        <img src="figures/tmaze_left.mp4.gif">
         Regret: 1.0
     </div>
     <div style="width:31%; display: inline-block">
-    <video controls autoplay muted loop style="width: 100%">
-        <source src="figures/tmaze_right.mp4" type="video/mp4" >
-    </video>
+    <img src="figures/tmaze_right.mp4.gif">
     Regret: 1.0
     </div>
     <div style="width:31%; display: inline-block">
-        <video controls autoplay muted loop style="width: 100%">
-        <source src="figures/maze_good_0.mp4" type="video/mp4" >
-        </video>
-        Regret: 0.0
+        <img src="figures/maze_good_0.mp4.gif">
+        Regret: 0.9
     </div>
     </div>
 </div>
