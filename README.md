@@ -13,7 +13,7 @@
        <img width="10%" src="figures/tmaze_left.mp4.gif">
        <img width="10%" src="figures/tmaze_right.mp4.gif">
        <img width="10%" src="figures/maze_spin_0.mp4.gif">
-       <img width="10%" src="figures/invalid">
+       <span width="20%">&emsp;</span>
        <img width="10%" src="figures/tmaze_left.mp4.gif">
        <img width="10%" src="figures/tmaze_right.mp4.gif">
        <img width="10%" src="figures/maze_good_0.mp4.gif">
