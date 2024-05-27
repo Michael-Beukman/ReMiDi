@@ -1,5 +1,8 @@
-# Bayesian Level Perfect Minimax Regret
-## A ReMiDi 💉 to Irreducible Regret
+<p align=center>
+
+# Bayesian Level Perfect Minimax Regret: A ReMiDi 💉 to Irreducible Regret
+
+</p>
 <p align="center">
        <a href= "#reproduction"><img src="https://img.shields.io/badge/get_started-link-blue" /></a>
        <a href= "https://blog.foersterlab.com/blp"><img src="https://img.shields.io/badge/blog-link-purple" /></a>
