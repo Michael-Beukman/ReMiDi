@@ -13,15 +13,15 @@
     Policy 1
     <br>
     <div style="width:31%; display: inline-block;">
-        <img width="100%" src="figures/tmaze_left.mp4.gif">
+        <img width="30%" src="figures/tmaze_left.mp4.gif">
         Regret: 1.0
     </div>
     <div style="width:31%; display: inline-block">
-    <img width="100%" src="figures/tmaze_right.mp4.gif">
+    <img width="30%" src="figures/tmaze_right.mp4.gif">
     Regret: 1.0
     </div>
     <div style="width:31%; display: inline-block">
-        <img width="100%" src="figures/maze_spin_0.mp4.gif">
+        <img width="30%" src="figures/maze_spin_0.mp4.gif">
         Regret: 0.9
     </div>
 </div>
@@ -30,15 +30,15 @@
     Policy 2
     <br>
     <div style="width:31%; display: inline-block;">
-        <img width="100%" src="figures/tmaze_left.mp4.gif">
+        <img width="30%" src="figures/tmaze_left.mp4.gif">
         Regret: 1.0
     </div>
     <div style="width:31%; display: inline-block">
-    <img width="100%" src="figures/tmaze_right.mp4.gif">
+    <img width="30%" src="figures/tmaze_right.mp4.gif">
     Regret: 1.0
     </div>
     <div style="width:31%; display: inline-block">
-        <img width="100%" src="figures/maze_good_0.mp4.gif">
+        <img width="30%" src="figures/maze_good_0.mp4.gif">
         Regret: 0.9
     </div>
     </div>
