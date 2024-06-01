@@ -2,7 +2,7 @@
 <p align="center">
        <a href= "#reproduction"><img src="https://img.shields.io/badge/get_started-link-blue" /></a>
        <a href= "https://blog.foersterlab.com/blp"><img src="https://img.shields.io/badge/blog-link-purple" /></a>
-       <a href= "https://arxiv.org/abs/2204.06934"><img src="https://img.shields.io/badge/arxiv-2204.06934-b31b1b" /></a>
+       <a href= "https://arxiv.org/abs/2402.12284"><img src="https://img.shields.io/badge/arxiv-2402.12284-b31b1b" /></a>
 </p>
 
 ---
