@@ -104,7 +104,6 @@ For attribution in academic work, please cite our work as
   author={Beukman, Michael and Coward, Samuel and Matthews, Michael and Fellows, Mattie and Jiang, Minqi and Dennis, Michael and Foerster, Jakob},
   booktitle={International Conference on Machine Learning},
   year={2024},
-organization={PMLR}
-
+  organization={PMLR}
 }
 ```
